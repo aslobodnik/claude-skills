@@ -76,6 +76,8 @@ Overall session/corpus score based on:
 
 ### Full Audit (`/prompt-review`)
 
+Start output with: `prompt-review v{version}` (read version from frontmatter)
+
 1. **Executive Summary**
    - Sessions analyzed, ship rate %, rework rate %
    - **Velocity Score: X/10**
@@ -111,6 +113,8 @@ Overall session/corpus score based on:
    - Based on most impactful patterns causing rework
 
 ### Quick Review (`/prompt-review last`)
+
+Start output with: `prompt-review v{version}` (read version from frontmatter)
 
 - Session score with rework risk assessment
 - Issues grouped by type with rewrites
