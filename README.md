@@ -8,7 +8,7 @@ Skills extend Claude Code's capabilities with specialized knowledge and workflow
 
 ## Available Skills
 
-### prompt-review
+### prompt-review (v1.0.0)
 
 Analyze your prompting patterns with a focus on **outcome velocity** - getting work done fast with minimal rework.
 

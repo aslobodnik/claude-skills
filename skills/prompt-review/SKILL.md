@@ -1,5 +1,6 @@
 ---
 name: prompt-review
+version: 1.0.0
 description: Analyze prompting effectiveness with focus on outcome velocity - are prompts getting work done fast? Use when user says "/prompt-review" (full audit), "/prompt-review last" (recent session), or "/prompt-review reset" (clear profile). Also triggers on "review my prompts", "how can I prompt better", "analyze my prompting".
 ---
 
